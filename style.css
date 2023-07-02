@@ -1,0 +1,74 @@
+.barra{
+    width: 500px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 100px;  
+    margin: 20px;
+}
+
+.uno{
+    width: 50px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 100px;
+}
+
+.barra2{
+    width: 500px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 100px; 
+    margin: 20px;   
+}
+
+.dos{
+    width: 125px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 100px;
+}
+
+.barra3{
+    width: 500px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 100px;  
+    margin: 20px;  
+}
+
+.tres{
+    width: 250px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 100px;
+}
+
+.barra4{
+    width: 500px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 100px;  
+    margin: 20px;  
+}
+
+.cuatro{
+    width: 375px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 100px;
+}
+
+.barra5{
+    width: 500px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 100px;  
+    margin: 20px;  
+}
+
+.cinco{
+    width: 450px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 100px;
+}
